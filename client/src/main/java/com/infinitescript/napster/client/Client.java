@@ -18,7 +18,7 @@ import org.apache.logging.log4j.Logger;
 
 public class Client {
 	private Client() { }
-	
+	//实例化对象等等
 	public static Client getInstance() {
 		return INSTANCE;
 	}
